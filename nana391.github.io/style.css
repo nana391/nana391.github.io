@@ -1,0 +1,186 @@
+body {
+    font-family: Helvetica, Arial , sans-serif;
+        margin: 0px;
+        font-size: 2vw;
+}
+
+#logo {
+    margin-right: auto;
+    margin-left: 20px;
+    padding: 8px;
+    font-family: "Fredoka One", sans-serif;
+    box-shadow: 0px 0px 0px darkorange;
+    width: 20%;
+    color: white;
+    text-shadow: 
+    1px 1px 0px black,   /* Bottom-right shadow*/
+    -1px 1px 0px black,   /* Bottom-left shadow*/
+    1px -1px 0px black,   /* Top-right shadow*/
+    -1px -1px black   /* Top-right shadow*/
+}
+
+
+ul {
+    margin: 0px;
+}
+
+body > header {
+    background-color: orange;
+    color: white;
+    text-align: center;
+}
+
+
+body > header > nav  > ul {
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.navbutton {
+    color: white;
+    text-decoration: none;
+    padding: 12px;
+    border: 1px solid white;
+}
+
+
+body >  main article {
+    width: 60%;
+    margin: auto;
+}
+
+
+
+form {
+    text-align: center;
+}
+
+
+h2 {
+    text-align: center;
+}
+
+
+body > footer {
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+}
+
+
+img {
+    border-radius: 10%;
+}
+
+
+p {
+    font-size: 0.5em;
+}
+
+.main-container {
+    margin: 40px auto;
+    text-align: center;
+}
+
+
+
+#main-content {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+
+#main-content > div {
+    width: 70%;
+}
+
+
+
+
+
+
+
+
+
+form {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+ul {
+    margin: 0px;
+}
+
+
+
+#nav-ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    padding: 0%;
+    margin: 0%;
+}
+
+
+#nav-ul > li {
+    margin: 0 15px;
+}
+
+
+ul {
+    margin: 0px;
+}
+
+    
+form {
+    text-align: center;
+}
+
+
+#main-header {
+    font-size: 9px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+   
+
+
+#main-content aside {
+    width: 20%
+}
+
+article h2 {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+article h3 {
+    font-size: 16px;
+}
+
+
+
+
+
+#footer-ul {
+    display: flex;
+    list-style: none;
+}
+
+
+#footer-ul > div > li {
+    margin-left: 12px;
+}
+
+#footer-ul > div > li > a{
+    text-decoration: none;
+    color: white;
+}
